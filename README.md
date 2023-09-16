@@ -23,7 +23,7 @@ GitHub: [@abasit834](https://github.com/abasit834)
 
 
 # 🔭 Future Features
-Describe 1 - 3 features you will add to the project.
+
 
 - A full stack web application
 
