@@ -1,0 +1,11 @@
+.hello {
+  text-align: center;
+  margin-top: 375px;
+  color: purple;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: 7px solid;
+}
+
+body {
+  background-color: black;
+}
